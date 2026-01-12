@@ -28,6 +28,16 @@ I care about **performance**, **security**, and **maintainability** — and I li
 
 ---
 
+## 🧠 Core Strengths
+
+- **API Design:** consistent naming, validation, paging/filtering, versioning-ready contracts
+- **Security:** safe defaults, least-privilege access, hardened endpoints, careful exposure
+- **Data & Performance:** indexing mindset, query optimization, reporting & aggregation patterns
+- **Maintainability:** readable code, separation of concerns, modular services, predictable structure
+- **Ops-friendly:** logging, error handling, health checks, environment-based configuration
+
+---
+
 ## 🧰 Tech Stack
 
 <p align="left">
@@ -62,48 +72,43 @@ I care about **performance**, **security**, and **maintainability** — and I li
 
 ---
 
-## 🧠 Highlights
+## 📌 Featured Projects
 
-- **Backend-first mindset:** contracts, validations, rate limiting, health checks, logging
-- **Database performance:** indexing strategy, query optimization, reporting
-- **Security:** secure auth flows, permissions, minimal exposure, safe defaults
-- **Clean code:** readable structure, consistent naming, separation of responsibilities
+> A few things I’ve built / contributed to (I can tailor these with exact repo links & descriptions):
 
----
+- **Project 1 — Backend/API System**
+  - What it does: API-first backend, modular structure, auth + roles
+  - Tech: C#, .NET, DB, Integrations  
+  - Repo: https://github.com/aslancan060
 
-## 📊 GitHub Stats
+- **Project 2 — Data/Reporting Module**
+  - What it does: reporting queries, performance optimizations, clean outputs
+  - Tech: SQL, PostgreSQL/MySQL, caching patterns  
+  - Repo: https://github.com/aslancan060
 
-<p align="left">
-  <a href="https://www.github.com/aslancan060">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aslancan060&stroke=ffffff&background=1c1917&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak Stats" />
-  </a>
-  <br/>
-
-  <a href="https://github.com/aslancan060">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aslancan060&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
-  </a>
-  <br/>
-
-  <a href="https://github.com/aslancan060">
-    <img src="https://github-readme-stats.vercel.app/api?username=aslancan060&show_icons=true&theme=transparent" alt="GitHub Stats" />
-  </a>
-  <br/>
-</p>
+- **Project 3 — Integration-focused Service**
+  - What it does: 3rd party integrations, job/automation style flows
+  - Tech: .NET, background processing ideas, logging  
+  - Repo: https://github.com/aslancan060
 
 ---
 
-## 🏆 GitHub Trophies
+## ✅ Engineering Principles
 
-> If trophies don't load instantly, it’s usually cache/rate-limit. This version includes a cache-bust parameter.
+- **Secure by default** (least privilege, careful exposure, validation everywhere)
+- **Make it readable** (consistent naming, simple flow, maintainable code)
+- **Measure & optimize** (queries, indexes, bottlenecks, observability)
+- **Stable contracts** (API consistency, backward compatibility mindset)
+- **Small modules > big monoliths** (separation of concerns wins long-term)
 
-<p align="left">
-  <a href="https://github.com/aslancan060">
-    <img
-      src="https://github-profile-trophy.vercel.app/?username=aslancan060&theme=darkhub&row=1&column=7&no-frame=true&margin-w=8&margin-h=8&cache_seconds=1800&v=2"
-      alt="GitHub Trophies"
-    />
-  </a>
-</p>
+---
+
+## 🤝 Open To
+
+- Backend (.NET) roles
+- API & integration projects
+- Database-heavy systems (performance, reporting, data design)
+- Freelance / part-time collaboration (if the scope is clear)
 
 ---
 
