@@ -1,125 +1,327 @@
-# Hi there! 👋
-I'm **Aslan Can** — a **.NET Backend Developer** based in **Istanbul**.
+<div align="center">
 
-I build reliable backend systems: **clean APIs**, **secure auth**, **database-focused solutions**, and **integration-heavy** applications.  
-I care about **performance**, **security**, and **maintainability** — and I like turning complex business needs into simple, scalable software.
+# 👋 Hi, I'm Aslan Can
+
+### .NET Backend Developer · API Engineer · Database Enthusiast
+
+**Building reliable backend systems, scalable APIs and database-driven applications.**
+
+<p>
+  <a href="https://github.com/aslancan060">
+    <img src="https://img.shields.io/badge/GitHub-aslancan060-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/aslan-can/">
+    <img src="https://img.shields.io/badge/LinkedIn-Aslan%20Can-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:aslancan974@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+📍 Istanbul, Türkiye
+
+</div>
 
 ---
 
-## 🚀 About Me
+## 🧑‍💻 About Me
 
-- 🧠 Focus: **Backend Development**, **API Design**, **Database Engineering**, **Security-minded development**
-- 🧩 I enjoy turning complex business processes into **simple, maintainable software**
-- 🔐 I prioritize **secure authentication & authorization**, and clean separation of concerns
-- ⚙️ I like building **modular services** that scale well over time
-- 🤝 Experienced in both **independent projects** and **team collaborations**, especially on **API integrations** and enterprise-style solutions
-- 📌 Location: **Istanbul**
-- ✉️ Email: **aslancan974@gmail.com**
+I'm a **.NET Backend Developer** focused on building business-oriented software, APIs, database-heavy applications and third-party integrations.
 
----
+I enjoy taking complicated business requirements and turning them into **simple, maintainable and reliable software**.
 
-## 🎯 What I Work On
+My main interests are:
 
-- ✅ **RESTful APIs & Backend Services** (clean endpoints, stable contracts, versioning-friendly)
-- ✅ **Auth & Security** (role/claim based access, secure sessions/tokens, security-first approach)
-- ✅ **Database-first thinking** (schema design, indexing, query performance, reporting)
-- ✅ **Integration-heavy apps** (3rd party services, payments, automation, syncing)
-- ✅ **Maintainable architectures** (layered structure, modular patterns, readable codebase)
+* 🔹 Backend architecture
+* 🔹 RESTful API development
+* 🔹 C# / .NET
+* 🔹 SQL Server & database engineering
+* 🔹 Query optimization & performance
+* 🔹 Authentication & authorization
+* 🔹 API & third-party integrations
+* 🔹 Reporting systems
+* 🔹 Automation & background services
+* 🔹 Enterprise applications
 
----
-
-## 🧠 Core Strengths
-
-- **API Design:** consistent naming, validation, paging/filtering, versioning-ready contracts
-- **Security:** safe defaults, least-privilege access, hardened endpoints, careful exposure
-- **Data & Performance:** indexing mindset, query optimization, reporting & aggregation patterns
-- **Maintainability:** readable code, separation of concerns, modular services, predictable structure
-- **Ops-friendly:** logging, error handling, health checks, environment-based configuration
+> **My goal:** Build software that is not only working today, but is also understandable and maintainable tomorrow.
 
 ---
 
-## 🧰 Tech Stack
+## ⚡ What I Build
 
-<p align="left">
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />
-  </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="AWS" />
-  </a>
-  <a href="https://www.linux.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" />
-  </a>
-  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" />
-  </a>
+```text
+┌─────────────────────────────────────────────────────┐
+│                                                     │
+│   API & Backend                                     │
+│   ├── REST APIs                                     │
+│   ├── Authentication & Authorization               │
+│   ├── Business Logic                                │
+│   └── Integration Services                          │
+│                                                     │
+│   Database                                          │
+│   ├── SQL Server                                    │
+│   ├── Query Optimization                            │
+│   ├── Stored Procedures                             │
+│   ├── Views & Functions                             │
+│   └── Reporting & Data Processing                   │
+│                                                     │
+│   Engineering                                       │
+│   ├── Clean & Layered Architecture                  │
+│   ├── Error Handling & Logging                      │
+│   ├── Performance Optimization                      │
+│   └── Maintainable Codebases                        │
+│                                                     │
+└─────────────────────────────────────────────────────┘
+```
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+
+<p>
+<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge"/>
+</p>
+
+### Database
+
+<p>
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
+
+### Tools & Infrastructure
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</p>
+
+### Frontend & Reporting
+
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastReport-1F2937?style=for-the-badge"/>
 </p>
 
 ---
 
-## 📌 Featured Projects
+## 🧠 Engineering Focus
 
-> A few things I’ve built / contributed to (I can tailor these with exact repo links & descriptions):
+<table>
+<tr>
+<td width="50%">
 
-- **Project 1 — Backend/API System**
-  - What it does: API-first backend, modular structure, auth + roles
-  - Tech: C#, .NET, DB, Integrations  
-  - Repo: https://github.com/aslancan060
+### 🔐 Security
 
-- **Project 2 — Data/Reporting Module**
-  - What it does: reporting queries, performance optimizations, clean outputs
-  - Tech: SQL, PostgreSQL/MySQL, caching patterns  
-  - Repo: https://github.com/aslancan060
+* Authentication & Authorization
+* Role / Claim based access
+* Secure API design
+* Least-privilege approach
+* Input validation
 
-- **Project 3 — Integration-focused Service**
-  - What it does: 3rd party integrations, job/automation style flows
-  - Tech: .NET, background processing ideas, logging  
-  - Repo: https://github.com/aslancan060
+</td>
+<td width="50%">
+
+### ⚡ Performance
+
+* SQL query optimization
+* Index strategy
+* Efficient data access
+* Reporting optimization
+* Bottleneck analysis
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🏗️ Architecture
+
+* Layered architecture
+* Separation of concerns
+* Modular services
+* DTO-based API contracts
+* Maintainable codebases
+
+</td>
+<td width="50%">
+
+### 🔌 Integrations
+
+* Third-party APIs
+* Data synchronization
+* Automation
+* Background services
+* Enterprise integrations
+
+</td>
+</tr>
+</table>
 
 ---
 
-## ✅ Engineering Principles
+## 🚀 Featured Projects
 
-- **Secure by default** (least privilege, careful exposure, validation everywhere)
-- **Make it readable** (consistent naming, simple flow, maintainable code)
-- **Measure & optimize** (queries, indexes, bottlenecks, observability)
-- **Stable contracts** (API consistency, backward compatibility mindset)
-- **Small modules > big monoliths** (separation of concerns wins long-term)
+> I'm continuously building and improving backend, API and database-focused projects.
 
----
+### 🔹 Backend / API Projects
 
-## 🤝 Open To
+**Coming soon**
 
-- Backend (.NET) roles
-- API & integration projects
-- Database-heavy systems (performance, reporting, data design)
-- Freelance / part-time collaboration (if the scope is clear)
+A collection of backend projects demonstrating:
 
----
-
-## 🔗 Connect with Me
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/aslancan060)  
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/thisisaslancann/)  
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/aslan-can/)  
+* C# / .NET
+* REST API design
+* Authentication
+* Database integration
+* Clean and maintainable architecture
 
 ---
 
-## 📨 Quick Contact
+### 🔹 Database & Performance
 
-If you'd like to collaborate, feel free to reach out via email: **aslancan974@gmail.com**
+**Coming soon**
+
+Projects focused on:
+
+* SQL Server
+* Query optimization
+* Stored procedures
+* Views
+* Indexing
+* Reporting
+* Large data processing
+
+---
+
+### 🔹 Integration & Automation
+
+**Coming soon**
+
+Projects focused on:
+
+* External API integrations
+* Background jobs
+* Automated workflows
+* Data synchronization
+* Logging & monitoring
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=aslancan060&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aslancan060&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=aslancan060&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 📈 Currently Improving
+
+```text
+C# / .NET              ████████████████████░  Advanced
+SQL Server             ████████████████████░  Advanced
+REST API Development   ██████████████████░░░  Advanced
+Database Engineering   ██████████████████░░░  Advanced
+System Architecture    ███████████████░░░░░░  Growing
+Cloud / DevOps         ████████████░░░░░░░░░  Growing
+```
+
+---
+
+## 🎯 Engineering Principles
+
+> **Keep it simple.**
+
+Avoid unnecessary complexity when a simple solution solves the problem.
+
+> **Make it maintainable.**
+
+Code should be understandable by the next developer who touches it.
+
+> **Optimize with a reason.**
+
+Measure first, identify the bottleneck, then optimize.
+
+> **Security is part of development.**
+
+Security shouldn't be something added at the end of a project.
+
+> **Good architecture serves the problem.**
+
+Architecture is a tool, not something to follow just for the sake of following it.
+
+---
+
+## 💼 Open To
+
+I'm interested in opportunities involving:
+
+* 💻 **.NET Backend Development**
+* 🔌 **API & Integration Projects**
+* 🗄️ **Database Engineering**
+* ⚡ **Performance Optimization**
+* 🏢 **Enterprise Software**
+* 🤝 **Freelance / Part-time Development**
+* 🚀 **Interesting Software Projects**
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/aslancan060">
+<img src="https://img.shields.io/badge/GitHub-aslancan060-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/aslan-can/">
+<img src="https://img.shields.io/badge/LinkedIn-Aslan%20Can-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/thisisaslancann/">
+<img src="https://img.shields.io/badge/Instagram-thisisaslancann-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:aslancan974@gmail.com">
+<img src="https://img.shields.io/badge/Email-aslancan974%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💻 Build. Optimize. Ship. Repeat.
+
+**Thanks for visiting my profile!**
+
+⭐ If you find something useful here, consider giving the repository a star.
+
+</div>
